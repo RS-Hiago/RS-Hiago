@@ -3,7 +3,7 @@
 
 <p align="center">✨ Aqui mostrarei um pouco do meu trabalho, dos projetos e compartilharei dicas!👋</p>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=HyRss&show_icons=true&theme=radical"></div> 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=RS-Hiago&show_icons=true&theme=radical"></div> 
 
 
 
@@ -17,5 +17,5 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{HyRss}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{RS-Hiago}/count.svg" /></p> 
 <br></div>
