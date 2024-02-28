@@ -9,9 +9,11 @@
 
 ## Tecnologias que utilizo:
 
-<div style="display: inline_block"><br/>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,azure,figma,git,github,tailwind,linux)](https://skillicons.dev)
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,azure,figma,git,github,tailwind,linux" />
+  </a>
+</p>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
