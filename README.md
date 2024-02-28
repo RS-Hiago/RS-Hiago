@@ -7,7 +7,7 @@
 
 
 
-## Tecnologias que utilizo:
+<h2 align="center">Tecnologias que utilizo:</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
